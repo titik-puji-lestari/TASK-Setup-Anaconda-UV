@@ -8,4 +8,4 @@ Nah, Pada kesempatan kali ini kita akan mempelajari environment setup untuk Data
 ✅ Anaconda
 ✅ Conda
 ✅ UV
-####Penasaran seperti apa itu? Yuk simak sampai akhir!
+#### Penasaran seperti apa itu? Yuk simak sampai akhir!
